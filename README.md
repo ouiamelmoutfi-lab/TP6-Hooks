@@ -19,7 +19,11 @@ Exercice 1 : Réinitialiser le compteur
 
 Un bouton Réinitialiser a été ajouté au compteur. Il permet de remettre la valeur du compteur à zéro grâce à useReducer.
 
-<video controls src="Screen Recording 2026-10-25 155647.mp4" title="Title">video</video>
+
+
+https://github.com/user-attachments/assets/0ebce022-5e00-49c8-ae7c-bd2badf8887f
+
+
 
 Exercice 2 : Hook personnalisé useLocalStorage
 
